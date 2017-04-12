@@ -1,0 +1,10 @@
+img {
+    float: right;
+}
+#round1 {
+    border-radius: 35px;
+    background: #FF0000;
+    padding: 20px;
+    width: 200px;
+    height: 650px;
+}
